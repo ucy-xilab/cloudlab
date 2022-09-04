@@ -1,6 +1,0 @@
-[loadbalancer]
-node0
-
-[webservers]
-node1
-node2
